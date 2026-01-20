@@ -2,41 +2,41 @@
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Web+Developer;Designer;Creative+Thinker;Building+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Web+Developer;UI%2FUX+Designer;Turning+Ideas+into+Digital+Experiences" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
   
 ### I'm **June Dominic G. Laurente**
-*A passionate web developer with 2 years of experience creating responsive, user-friendly websites and applications.*
+*An Information Technology student, Web Developer, and UI/UX Designer who enjoys turning ideas into clean, functional, and engaging digital experiences.*
 
-I specialize in front-end development but also enjoy working with back-end technologies. My approach combines technical expertise with creative problem-solving to deliver solutions that are both functional and visually appealing.
+I love learning new technologies, experimenting with designs, and building systems that solve real-world problems — all while keeping things simple, user-friendly, and a little fun.
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌟 A Little About Me
 
 ```yaml
 name: June Dominic G. Laurente
 located_in: Magallanes, Agusan del Norte, Philippines
 current_education: BS Information Technology @ Caraga State University (4th Year)
-experience: 2 years in web development
-specialization:
-  - Front-end Development
-  - Back-end Technologies
+interests:
+  - Web Development
+  - System Design
   - UI/UX Design
-goal: "Building digital experiences that matter"
-motto: "Technical expertise + Creative problem-solving = Amazing solutions ✨"
+  - AI & Machine Learning
+goal: "Aspiring Software/Web Developer seeking OJT or entry-level IT opportunities"
+motto: "Good design + Good logic = Great user experience ✨"
 ```
 
 - 🎓 **BS Information Technology** @ Caraga State University – Cabadbaran Campus (4th Year)
-- 💻 **2 years of experience** creating responsive, user-friendly websites and applications
+- 💻 Passionate about **Web Development, System Design, and UI/UX**
 - 🚀 Aspiring **Software / Web Developer** seeking OJT or entry-level IT opportunities
-- 🎨 Passionate about combining **functionality with visual appeal**
-- 🤖 Curious about **AI & Machine Learning** and emerging technologies
+- 🤖 Curious about **AI & Machine Learning** and how they shape future applications
+- ✨ I believe **good design + good logic = great user experience**
 
 ---
 
@@ -44,32 +44,37 @@ motto: "Technical expertise + Creative problem-solving = Amazing solutions ✨"
 
 <div align="center">
 
-### 🌐 Frontend Development
+### 🌐 Web & Backend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Frontend & Styling
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🎨 Design Tools
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+### 🔧 Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C4CC?style=for-the-badge&logo=responsive&logoColor=white)
 
 </div>
 
 ### 💡 Soft Skills
 - ✅ Creative Problem Solving
-- ✅ Technical Expertise
-- ✅ User-Focused Design
+- ✅ Critical Thinking
+- ✅ Clear Communication
 - ✅ Adaptability & Teamwork
 
 ---
@@ -109,61 +114,34 @@ motto: "Technical expertise + Creative problem-solving = Amazing solutions ✨"
 
 ---
 
-## 🚀 Featured Projects
+## 📂 What You'll Find Here
 
 <table>
 <tr>
 <td width="50%">
 
-### 🖥️ COMLAB Inventory System
-A school-based web application for managing computer laboratory inventory, including real-time borrowing, returning, and tracking of assets.
-
-**Tech Stack:**
-- HTML, CSS, PHP
-- Node.js, MySQL
-- Bootstrap
-
-🔗 [Live Demo](#) | 💻 [Code](#)
+### 🌐 Web-Based Management Systems
+Building comprehensive systems for real-world applications
 
 </td>
 <td width="50%">
 
-### 🐍 Python Rich POS System
-A terminal-based point-of-sale system using Python and Rich library for interactive UI, including receipt generation, item management, and daily sales reports.
-
-**Tech Stack:**
-- Python
-- Rich Library
-- JSON
-
-🎥 [Demo Video](#) | 💻 [Code](#)
+### 🐍 Flask & Django Applications
+Backend development with Python frameworks
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌸 E-Commerce Flower Shop
-An online flower shop website with product catalog, add-to-cart feature, checkout flow, and GCash integration. Hosted with Firebase.
-
-**Tech Stack:**
-- HTML, CSS, JavaScript
-- PHP, MySQL
-- Paymongo API, Firebase
-
-🌐 [Live Site](#) | 💻 [Code](#)
+### 🎨 Frontend-Focused UI Designs
+Creating beautiful, responsive user interfaces
 
 </td>
 <td width="50%">
 
-### 🎨 Logo Designs
-Professional logo designs including "Nong Doms" - a fastfood-style eatery logo reflecting casual and welcoming vibes.
-
-**Design Tools:**
-- Adobe Illustrator
-- Figma
-
-🖼️ [View Portfolio](#)
+### 📚 Academic & Capstone Projects
+University projects and innovative solutions
 
 </td>
 </tr>
@@ -171,31 +149,12 @@ Professional logo designs including "Nong Doms" - a fastfood-style eatery logo r
 
 ---
 
-## 📂 What You'll Find Here
+## 📫 Let's Connect!
 
 <div align="center">
 
-| Category | Description |
-|----------|-------------|
-| 🌐 **Web Applications** | Full-stack web projects with responsive design |
-| 🐍 **Python Projects** | Terminal apps, automation scripts, and more |
-| 💼 **Management Systems** | Inventory, POS, and business solutions |
-| 🎨 **UI/UX Designs** | Creative interfaces and logo designs |
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jdomelaurente)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laurentejunedominic?igsh=eTBnZXdnbW94eW03)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@j_domss?_t=ZS-8xzVdpptGhE&_r=1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdomelaurente@gmail.com)
-
-📍 **Location:** Magallanes, Agusan del Norte, Philippines
+[![Email](https://img.shields.io/badge/Email-Jdomelaurente@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jdomelaurente@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Magallanes,_Agusan_del_Norte,_PH-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps)
 
 *Additional details are available upon request.*
 
@@ -217,8 +176,6 @@ Professional logo designs including "Nong Doms" - a fastfood-style eatery logo r
 
 <div align="center">
   
-**© 2025 June Dominic G. Laurente. All rights reserved.**
-
 **[⬆ Back to Top](#hey-there--welcome-to-my-github)**
 
 </div>
